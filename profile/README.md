@@ -1,5 +1,7 @@
 ## Mini Sora Community
 
+Welcome to join Mini Sora Community
+
 <!--
 
 **Here are some ideas to get you started:**
